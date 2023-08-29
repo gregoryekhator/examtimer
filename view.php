@@ -18,7 +18,7 @@
  * Examtimer module main user interface
  *
  * @package   View mod_examtimer
- * @copyleft 2022 Debonair Training {@link http://debonairtraining.com}
+ * @copyleft 2023 Gregory Ekhator & team Debonair Training {@link http://debonairtraining.com}
  * @copyright 2009 Petr Skoda  {@link http://skodak.org}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */

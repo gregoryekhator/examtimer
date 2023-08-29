@@ -13,7 +13,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
-copyleft 2022 Debonairtraining for University of Nottingham {@link:https://debonairtraining.com}
+copyleft 2022 Gregory Ekhator Debonairtraining for University of Nottingham {@link:https://debonairtraining.com}
 copyright 2009 Petr Skoda (http://skodak.org)
 license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
